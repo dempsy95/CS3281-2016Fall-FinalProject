@@ -1,0 +1,13 @@
+This repository is created by Qian Sun for 2016 Fall CS3281 Final Project.
+
+Final Project 3: A review and report on safe programming tools. [Done individually]
+
+CS3281_Final_Project.pdf is the main paper that shows all my work
+CS3281_Final_Project_Slides.pdf is the 5-pages slides that shows the highlight of my work
+
+src directory contains all the code used for the project
+
+bin directory contains all the executable
+
+bin_ef directory contains all the executable that used Electric Fence to compile
+
